@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smokeyy92
-- 👀 I’m interested in games , game dev , infra engineering , slightly into devops
+- 👀 I’m interested in games , game dev , infra engineering/ system engineering, would like to get into devops
 - 🌱 I’m currently learning everything :D whatever gets thrown at me
 - 💞️ I’m looking to collaborate on .... hmmmmm aliens maybe
 - 📫 How to reach me , you can find me on planet earth
